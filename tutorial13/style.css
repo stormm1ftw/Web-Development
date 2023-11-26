@@ -1,0 +1,27 @@
+.box{
+    background-color: aqua;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box1{
+    background-color: darkkhaki;
+    margin: 25px;
+    padding: 10px;
+    height: 300px;
+    border: 2px dotted red;
+    box-sizing: border-box;
+    text-align: center;    
+}
+
+.box2{
+    background-color: aquamarine;
+    margin: 40px 25px;
+    padding: 10px;
+    height: 300px;
+    border: 2px dotted rgb(0, 8, 255);
+    box-sizing: border-box;  
+}
