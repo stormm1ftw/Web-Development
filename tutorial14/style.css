@@ -1,0 +1,65 @@
+p{
+    font-family: Verdana, sans-serif;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#font{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: pink;
+    text-decoration-style: wavy;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Mono:wght@100&display=swap');
+
+#font1{
+    font-family: 'Roboto Mono', monospace;
+    text-indent: 10px;
+    border: 3px solid red;
+    text-overflow: clip;
+    width: 60px;
+    overflow: scroll;
+}
+
+#font2{
+    font-family: 'Roboto Mono', monospace;
+    text-indent: 10px;
+    border: 3px solid red;
+    text-overflow: clip;
+    width: 50px;
+    overflow: hidden;
+}
+
+#font3{
+    font-family: 'Roboto Mono', monospace;
+    text-indent: 10px;
+    border: 3px solid red;
+    text-overflow: ellipsis;
+    width: 50px;
+    overflow: scroll;
+}
+
+#font4{
+    font-family: 'Roboto Mono', monospace;
+    text-indent: 10px;
+    border: 3px solid red;
+    text-overflow: ellipsis;
+    width: 50px;
+    overflow: hidden;
+}
+#font5{
+    font-family: 'Roboto Mono', monospace;
+    text-indent: 10px;
+    border: 3px solid red;
+    word-break: break-all;
+    width: 100px;
+}
+
+h2{
+    text-transform: capitalize;
+    text-align: center;
+}

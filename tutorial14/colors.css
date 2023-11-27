@@ -1,0 +1,31 @@
+h1{
+    color: rosybrown;
+}
+
+#key
+{
+    color: red;
+}
+
+#hex{
+    color: #2898A9;
+}
+
+#rgb
+{
+    color: rgb(40, 120, 80);
+}
+
+#rgba
+{
+    color: rgba(140, 80, 50, 0.689);
+}
+
+#hsl
+{
+    color: hsl(230, 80%, 80%);
+}
+
+*{
+    background-color: rebeccapurple;
+}
